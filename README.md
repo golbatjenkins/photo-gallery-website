@@ -6,3 +6,8 @@ Use cases:
 -Family Vacation photo album
 -Wedding photos
 -Funeral photos
+
+
+Should this be PHP of Typescript Javascript?
+
+#Decision
